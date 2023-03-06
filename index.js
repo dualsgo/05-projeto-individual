@@ -86,7 +86,7 @@ function funcaoRemover() {
           index = array.indexOf(findFor);
         }
 
-        console.log(chalk.bgGreen.black('SUCESSO! Você adicionou uma nova propriedade CSS na lista.'))
+        console.log(chalk.bgGreen.black('SUCESSO! Você removeu a propriedade CSS da lista.'))
         console.log("Confira abaixo a lista de propriedades CSS atualizada:", array.sort())
         return funcaoVoltar()
       }
