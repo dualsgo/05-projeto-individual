@@ -1,6 +1,6 @@
-# PROJETO INDIVIDUAL do Módulo 5 - *Facilitando o dia a dia*
+# Projeto individual - Módulo 5 "Facilitando o dia a dia"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kYx4m779x0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+BOOTCAMP PROGRAMADORES CARIOCAS - Resilia Educação, SENAC RJ e Prefeitura do Rio de Janeiro
 
 ## Contexto e oque é para fazer:
 
